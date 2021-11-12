@@ -115,7 +115,8 @@ venv.bak/
 sptrack/
 
 
-.json
+*.json
+quickstart.py
 # Spyder project settings
 .spyderproject
 .spyproject
